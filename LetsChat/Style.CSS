@@ -1,0 +1,14 @@
+body{
+background-color: coral;
+align-content: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+  }
+
+  img{
+      height: 100px;
+      width: 90px;
+  }
